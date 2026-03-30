@@ -1,0 +1,4 @@
+@EndUserText.label: 'Exponer CDS'
+define service ZLEG_SD_ART001 {
+  expose ZLEG_CDS_ART_001;
+}
